@@ -37,7 +37,6 @@ ___Tugas akhir ini memiliki beberapa kriteria yang harus dimiliki yaitu:___
 # Query Parameters
 dengan beberapa tambahan fitur query 
 
-## query parameters
  - ?name
  - ?reading
  - ?finished
