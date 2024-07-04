@@ -50,6 +50,9 @@ _url_
 ~~~
 http://localhost:9000/books?name=budi
 ~~~
+![Screenshot 2024-07-04 234549](https://github.com/wraleydi/Bookshelf-API/assets/166751493/64e0d968-58a6-4fa6-876e-23d66b33206b)
+
+
 
 **?reading parameter**:
 Bernilai 0 atau 1. Bila 0, maka tampilkan buku yang sedang tidak dibaca (reading: false). Bila 1, maka tampilkan buku yang sedang dibaca (reading: true).
@@ -61,6 +64,9 @@ http://localhost:9000/books?reading=0
 ~~~
 http://localhost:9000/books?reading=1
 ~~~
+![Screenshot 2024-07-04 234848](https://github.com/wraleydi/Bookshelf-API/assets/166751493/f5c57845-df00-459e-8a31-9c52e66f7b23)
+
+
 
 **?finished parameter**:
 Bernilai 0 atau 1. Bila 0, maka tampilkan buku yang sudah belum selesai dibaca (finished: false). Bila 1, maka tampilkan buku yang sudah selesai dibaca (finished: true).
@@ -72,3 +78,4 @@ http://localhost:9000/books?finished=0
 ~~~
 http://localhost:9000/books?finished=1
 ~~~
+![Screenshot 2024-07-04 234809](https://github.com/wraleydi/Bookshelf-API/assets/166751493/ebc79993-f756-4518-9fad-4cb18197ab2d)
